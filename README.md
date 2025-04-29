@@ -5,7 +5,7 @@
 ![Stalked by](https://komarev.com/ghpvc/?username=priyasmitaaa&color=6c5eff)
 
 
-- 🔭 I’m currently a fresher at **KIIT**.
+- 🔭 I’m currently a senior at **KIIT**.
 
 - 🌱 As of now exploring the field of **Information Technology**
 <br/>
