@@ -5,9 +5,9 @@
 ![Stalked by](https://komarev.com/ghpvc/?username=priyasmitaaa&color=6c5eff)
 
 
-- 🔭 I’m currently a senior at **KIIT**.
+- 🔭 I’m currently a final year student at **KIIT**.
 
-- 🌱 As of now exploring the field of **Information Technology**
+- 🌱 Exploring the field of **Information Technology**. Interested in AWS.
 <br/>
 
 <p align="center">
